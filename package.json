@@ -1,0 +1,23 @@
+{
+  "name": "scotch-markdown-editor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "gh-pages": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jidemusty/scotch-markdown-editor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jidemusty/scotch-markdown-editor/issues"
+  },
+  "homepage": "https://github.com/jidemusty/scotch-markdown-editor#readme"
+}
